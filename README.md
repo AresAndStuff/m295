@@ -1,12 +1,14 @@
 # Projektname
 
-Beschreibung des Projekts
+m295 Abschluss
 
 ## Autor
 Ares Dovalo Taboas
 
 ## Installation
-`npm install`
+1. Klone das Repo: `git clone https://github.com/AresAndStuff/m295.git`
+2. Wechsle in den Ordner: `cd m295`
+3. Installiere die Abhängigkeiten: `npm install`
 
 ## Verwendung
 
